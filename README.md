@@ -11,7 +11,7 @@ npm i
 
 ## Make a component
 
-Create your component in ./lib/index.js
+Create your component in ./lib/index.js.  
 Make sure the package name does not exist with the search on the npm site.
 
 ## Edit package.json
