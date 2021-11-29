@@ -5,9 +5,7 @@ Clone or download this repostiory
 ##installation
 
 ```
-
 npm i
-
 ```
 
 ## Make a component
@@ -21,7 +19,6 @@ Make sure the package name does not exist with the search on the npm site
 Modify the package.json file
 
 ```
-
 "name": "Package name",
 "description": "Description of component",
 "author": "Dev name",
@@ -35,7 +32,6 @@ Modify the package.json file
     "type": "git",
     "url": "Your repository address"
 },
-
 ```
 
 ## Documentation
@@ -48,25 +44,20 @@ Edit this readme.md file to indicate how to use and install your package. If you
 Use git bash to execute "npm run build" command. The component will be created in the dist directory.
 
 ```
-
 npm run build
-
 ```
 
 Connect to your npm account with the npm login command
 
 
 ```
-
 npm run login
-
 ```
+
 And publish
 
 ```
-
 npm run publish
-
 ```
 
 
