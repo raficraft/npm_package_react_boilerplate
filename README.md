@@ -20,7 +20,7 @@ Modify the package.json file.
 
 ```
 "name": "Package name",
-"description": "Description of component",
+"description": "Description of package",
 "author": "Dev name",
 "keywords": ["a", "short", "list", "of", "keywords"],
 "version": "0.1.0",
