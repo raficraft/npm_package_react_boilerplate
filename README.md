@@ -1,5 +1,7 @@
 # npm_package_react_boilerplate
 
+
+Create a account on [https://www.npmjs.com/](npmjs.com).
 Clone or download this repostiory.
 
 ## Installation
@@ -60,11 +62,14 @@ And publish
 npm run publish
 ```
 
-
 ## Note
 
 
 If you have an "E403" error. Make sure you have validated your npm account. If the error persists, ask to receive the confirmation email again.
+
+## Source
+
+[https://levelup.gitconnected.com/publish-react-components-as-an-npm-package-7a671a2fb7f](Based on this article.)
 
 
 
