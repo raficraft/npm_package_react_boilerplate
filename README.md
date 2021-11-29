@@ -1,6 +1,6 @@
 # npm_package_react_boilerplate
 
-Clone or download this repostiory
+Clone or download this repostiory.
 
 ## Installation
 
@@ -12,11 +12,11 @@ npm i
 
 Create your component to the lib/components directory
 
-Make sure the package name does not exist with the search on the npm site
+Make sure the package name does not exist with the search on the npm site.
 
 ## Edit package.json
 
-Modify the package.json file
+Modify the package.json file.
 
 ```
 "name": "Package name",
@@ -37,7 +37,7 @@ Modify the package.json file
 ## Documentation
 
 
-Edit this readme.md file to indicate how to use and install your package. If you have published your package on github this file will be used for documentation on the npm site
+Edit this readme.md file to indicate how to use and install your package. If you have published your package on github this file will be used for documentation on the npm site.
 
 ## Connect to npm and publish
 
@@ -47,7 +47,7 @@ Use git bash to execute "npm run build" command. The component will be created i
 npm run build
 ```
 
-Connect to your npm account with the npm login command
+Connect to your npm account with the npm login command.
 
 
 ```
@@ -63,7 +63,8 @@ npm run publish
 
 ## Note
 
-If you have an e403. Make sure you have validated your npm account. If the error persists ask to receive the confirmation email again
+
+If you have an "E403" error. Make sure you have validated your npm account. If the error persists, ask to receive the confirmation email again.
 
 
 
