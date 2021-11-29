@@ -1,20 +1,26 @@
 {
-  "name": "jackadit_by_raficraft",
-  "version": "0.1.0",
-  "author": "raficraft",
-  "private": false,
-  "description": "npm package test",
+  "name": "package-name",
+  "description": "Description of component",
+  "author": "Dev name",
   "keywords": [
-    "react",
-    "components",
-    "ui"
+    "a",
+    "short",
+    "list",
+    "of",
+    "keywords"
   ],
+  "version": "0.1.0",
+  "private": false,
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": [
     "dist",
     "README.md"
   ],
+  "repository": {
+    "type": "git",
+    "url": "Your repository address"
+  },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "@testing-library/jest-dom": "^5.15.1",
