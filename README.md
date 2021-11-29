@@ -2,7 +2,7 @@
 
 Clone or download this repostiory
 
-##installation
+## Installation
 
 ```
 npm i
@@ -14,7 +14,7 @@ Create your component to the lib/components directory
 
 Make sure the package name does not exist with the search on the npm site
 
-##Edit package.json
+## Edit package.json
 
 Modify the package.json file
 
