@@ -69,7 +69,8 @@ If you have an "E403" error. Make sure you have validated your npm account. If t
 
 ## Source
 
-[https://levelup.gitconnected.com/publish-react-components-as-an-npm-package-7a671a2fb7f](Based on this article.)
+
+[Based on this article](https://levelup.gitconnected.com/publish-react-components-as-an-npm-package-7a671a2fb7f/)
 
 
 
