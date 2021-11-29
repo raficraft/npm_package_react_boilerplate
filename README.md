@@ -1,7 +1,6 @@
 # npm_package_react_boilerplate
 
-
-Create a account on [https://www.npmjs.com/](npmjs.com).
+Create a account on [npmjs](https://www.npmjs.com/).
 Clone or download this repostiory.
 
 ## Installation
